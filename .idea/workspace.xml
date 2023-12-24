@@ -5,79 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c50a2a7-0833-4094-837b-2e39827552b1" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c9ef50fc4ac83c641d27252df8162ed2278e886" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41fba28823bfdb74a77b68aff6c2175ccff850ff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dc344356ec8df28fdbd449e15157a0776016fd8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bb8f6329b6c1e474f1dced05c10e4c4d3af5064" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/8351dfbb554118fb5f936da13071ee28e0621ddc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a05362dc44a9e5b30ca0aca30ee5effe5f19c6f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/956b81e11c522ecbdcd5efb1058319b617f9a357" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9971dd576cd4dd8db315131b571478d1515466a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dda31d8455c386f9c32d1d8d15ec51fe5a1da7c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5426ad96dd3955d8ac9f14e161a5607437cdf95" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3e63e2214d6f97539b40023439b9d8a75de8aa0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3e7f225ba780ea6452f93f4f2ecd5e4cfdb215b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9dcb62666a0dd8088e3c68f144eafda4ff1a5f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd2db92f49d4003f28987c23e4554ac3e0e35f93" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8c2efffdbcd97c12d73116bb19c6f5ff8c9e3da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/c/1c9ef50fc4ac83c641d27252df8162ed2278e886" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/1/41fba28823bfdb74a77b68aff6c2175ccff850ff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/d/4dc344356ec8df28fdbd449e15157a0776016fd8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/b/7bb8f6329b6c1e474f1dced05c10e4c4d3af5064" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/3/8351dfbb554118fb5f936da13071ee28e0621ddc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a05362dc44a9e5b30ca0aca30ee5effe5f19c6f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/5/956b81e11c522ecbdcd5efb1058319b617f9a357" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/9/9971dd576cd4dd8db315131b571478d1515466a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9dda31d8455c386f9c32d1d8d15ec51fe5a1da7c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5426ad96dd3955d8ac9f14e161a5607437cdf95" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b3e63e2214d6f97539b40023439b9d8a75de8aa0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b3e7f225ba780ea6452f93f4f2ecd5e4cfdb215b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/9/b9dcb62666a0dd8088e3c68f144eafda4ff1a5f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dd2db92f49d4003f28987c23e4554ac3e0e35f93" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f8c2efffdbcd97c12d73116bb19c6f5ff8c9e3da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/AngerMqBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/AngerMqStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageBroker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/ArrayBlockingQueueMessageStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageBrokerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageChannelImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageConsumerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageDataImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageProducerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/log/VirtualThreadConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/ConsumeMessageRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/MqRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/ProduceMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/ProduceMessageRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/RequestDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/RequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/util/MessageBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/test/java/cn/anger/mq/AngerMqBootstrapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-broker/src/test/java/cn/anger/mq/impl/MqTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-sdk/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anger-mq-sdk/src/main/java/cn/anger/mq/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-api/src/main/java/cn/anger/mq/request/ProduceMessageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-api/src/main/java/cn/anger/mq/response/ConsumeMessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-api/src/main/java/cn/anger/mq/response/MqResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-api/src/main/java/cn/anger/mq/response/ProduceMessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/AngerMqClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/AngerMqClientException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/config/AngerMqClientProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/config/AngerMqConsumerProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/config/AngerMqProducerProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/consumer/AngerMqConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/main/java/cn/anger/mq/client/producer/AngerMqProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/test/java/cn/anger/mq/client/consumer/AngerMqConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-client/src/test/java/cn/anger/mq/client/producer/AngerMqProducerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-core/src/main/java/cn/anger/mq/core/MessageChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-core/src/main/java/cn/anger/mq/core/MessageStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-message/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/ConsumeMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/ProduceMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/RequestDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/RequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a9493db9cf80ed416fe19e89d41be1375b0fb78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3e63e2214d6f97539b40023439b9d8a75de8aa0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be42e77ede8b8b39b659a57d09d78419341f8f1d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be42e77ede8b8b39b659a57d09d78419341f8f1d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/a/6a9493db9cf80ed416fe19e89d41be1375b0fb78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b3e63e2214d6f97539b40023439b9d8a75de8aa0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/AngerMqBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/AngerMqServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/AngerMqStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/AngerMqServerStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageBroker.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-core/src/main/java/cn/anger/mq/core/MessageBroker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageData.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-message/src/main/java/cn/anger/mq/message/AngerMqMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/core/MessageStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/ArrayBlockingQueueMessageStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/ArrayBlockingQueueMessageStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageBrokerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/MessageBrokerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageChannelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/main/java/cn/anger/mq/server/MessageChannelImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageConsumerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageDataImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-message/src/main/java/cn/anger/mq/message/AngerMqMessageImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/impl/MessageProducerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/log/VirtualThreadConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-common/src/main/java/cn/anger/mq/logs/VirtualThreadConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/ConsumeMessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-api/src/main/java/cn/anger/mq/request/ConsumeMessageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/MqRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-api/src/main/java/cn/anger/mq/request/MqRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/ProduceMessageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/ProduceMessageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/RequestDispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/request/RequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/java/cn/anger/mq/util/MessageBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-message/src/main/java/cn/anger/mq/message/MessageBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/test/java/cn/anger/mq/AngerMqBootstrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-server/src/test/java/cn/anger/mq/MqProducerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-broker/src/test/java/cn/anger/mq/impl/MqTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-sdk/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/anger-mq-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anger-mq-sdk/src/main/java/cn/anger/mq/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,19 +76,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.1-tem/lib/src.zip!/java.base/java/net/ServerSocket.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ZvouZxEjR29epf32zqll2155Vg" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,18 +102,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.build/Dockerfile.executor": "Run",
     "JUnit.AngerMqBootstrapTest.produceMessageShouldSuccess.executor": "Run",
+    "JUnit.AngerMqConsumerTest.consumeMessageShouldSuccess.executor": "Run",
+    "JUnit.AngerMqConsumerTest.executor": "Run",
+    "JUnit.AngerMqProducerTest.executor": "Run",
+    "JUnit.AngerMqProducerTest.sendMessage.executor": "Run",
     "JUnit.MessageBrokerImplTest.produceAndConsumeMessage.executor": "Run",
+    "JUnit.MqProducerTest.executor": "Run",
+    "JUnit.MqProducerTest.produceMessageShouldSuccess.executor": "Run",
     "JUnit.MqTest.executor": "Run",
     "JUnit.MqTest.produceAndConsumeMessage.executor": "Run",
+    "Maven.anger-mq-server [clean].executor": "Run",
+    "Maven.anger-mq-server [compile].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/liuanglin/Projects/anger-mq",
-    "settings.editor.selected.configurable": "http.proxy",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "应用程序.AngerMqServerStarter.executor": "Run",
     "应用程序.AngerMqStarter.executor": "Run"
   }
 }]]></component>
@@ -129,11 +135,20 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.anger.mq.logs" />
+      <recent name="cn.anger.mq.response" />
+      <recent name="cn.anger.mq.request" />
+      <recent name="cn.anger.mq.server" />
+      <recent name="cn.anger.mq.core" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.anger.mq.client.consumer" />
+      <recent name="cn.anger.mq.client.producer" />
       <recent name="cn.anger.mq" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AngerMqBootstrapTest.produceMessageShouldSuccess">
+  <component name="RunManager" selected="JUnit.AngerMqConsumerTest.consumeMessageShouldSuccess">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -159,13 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AngerMqStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.AngerMqStarter" />
-      <module name="anger-mq-broker" />
+    <configuration name="AngerMqServerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.AngerMqServerStarter" />
+      <module name="anger-mq-server" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.anger.mq.*" />
+          <option name="PATTERN" value="cn.anger.mq.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,50 +194,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AngerMqBootstrapTest.produceMessageShouldSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="anger-mq-broker" />
+    <configuration name="AngerMqConsumerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anger-mq-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.anger.mq.*" />
+          <option name="PATTERN" value="cn.anger.mq.client.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.anger.mq" />
-      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.AngerMqBootstrapTest" />
-      <option name="METHOD_NAME" value="produceMessageShouldSuccess" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MqTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="anger-mq-broker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.anger.mq.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.anger.mq.impl" />
-      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.impl.MqTest" />
+      <option name="PACKAGE_NAME" value="cn.anger.mq.client.consumer" />
+      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.client.consumer.AngerMqConsumerTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MqTest.produceAndConsumeMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="anger-mq-broker" />
+    <configuration name="AngerMqConsumerTest.consumeMessageShouldSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anger-mq-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.anger.mq.impl.*" />
+          <option name="PATTERN" value="cn.anger.mq.client.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.anger.mq.impl" />
-      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.impl.MqTest" />
-      <option name="METHOD_NAME" value="produceAndConsumeMessage" />
+      <option name="PACKAGE_NAME" value="cn.anger.mq.client.consumer" />
+      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.client.consumer.AngerMqConsumerTest" />
+      <option name="METHOD_NAME" value="consumeMessageShouldSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AngerMqProducerTest.sendMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anger-mq-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.anger.mq.client.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.anger.mq.client.producer" />
+      <option name="MAIN_CLASS_NAME" value="cn.anger.mq.client.producer.AngerMqProducerTest" />
+      <option name="METHOD_NAME" value="sendMessage" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -236,12 +251,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="anger-mq-server/target/docker/anger-mq-server/build/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AngerMqBootstrapTest.produceMessageShouldSuccess" />
-        <item itemvalue="应用程序.AngerMqStarter" />
-        <item itemvalue="JUnit.MqTest" />
-        <item itemvalue="JUnit.MqTest.produceAndConsumeMessage" />
+        <item itemvalue="JUnit.AngerMqConsumerTest.consumeMessageShouldSuccess" />
+        <item itemvalue="JUnit.AngerMqProducerTest.sendMessage" />
+        <item itemvalue="Docker.build/Dockerfile" />
+        <item itemvalue="JUnit.AngerMqConsumerTest" />
+        <item itemvalue="应用程序.AngerMqServerStarter" />
       </list>
     </recent_temporary>
   </component>

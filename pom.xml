@@ -6,32 +6,88 @@
 
     <groupId>cn.anger.mq</groupId>
     <artifactId>anger-mq</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>${revision}</version>
     <packaging>pom</packaging>
     <modules>
-        <module>anger-mq-sdk</module>
-        <module>anger-mq-broker</module>
+        <module>anger-mq-client</module>
+        <module>anger-mq-server</module>
+        <module>anger-mq-message</module>
+        <module>anger-mq-core</module>
+        <module>anger-mq-api</module>
+        <module>anger-mq-common</module>
     </modules>
+
+    <properties>
+        <revision>21.0.1</revision>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
     <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>cn.anger.mq</groupId>
-                <artifactId>anger-mq-broker</artifactId>
+                <artifactId>anger-mq-core</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>cn.anger.mq</groupId>
-                <artifactId>anger-mq-sdk</artifactId>
+                <artifactId>anger-mq-server</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>cn.anger.mq</groupId>
+                <artifactId>anger-mq-client</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>cn.anger.mq</groupId>
+                <artifactId>anger-mq-message</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>cn.anger.mq</groupId>
+                <artifactId>anger-mq-api</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>cn.anger.mq</groupId>
+                <artifactId>anger-mq-common</artifactId>
                 <version>${project.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
 
-    <properties>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>flatten-maven-plugin</artifactId>
+                <version>1.5.0</version> <!-- Use the latest version here -->
+                <configuration>
+                    <!-- specify the flatten mode here -->
+                    <flattenMode>resolveCiFriendliesOnly</flattenMode>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>flatten</id>
+                        <phase>process-resources</phase>
+                        <goals>
+                            <goal>flatten</goal>
+                        </goals>
+                    </execution>
+                    <execution>
+                        <id>flatten.clean</id>
+                        <phase>clean</phase>
+                        <goals>
+                            <goal>clean</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
 
 </project>

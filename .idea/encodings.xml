@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/anger-mq-broker/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/anger-mq-broker/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/anger-mq-sdk/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/anger-mq-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-message/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anger-mq-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

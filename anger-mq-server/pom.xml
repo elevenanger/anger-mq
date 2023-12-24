@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>cn.anger.mq</groupId>
+        <artifactId>anger-mq</artifactId>
+        <version>${revision}</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>anger-mq-server</artifactId>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <docker.container.app.home>/home/appuser/app</docker.container.app.home>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>cn.anger.mq</groupId>
+            <artifactId>anger-mq-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cn.anger.mq</groupId>
+            <artifactId>anger-mq-message</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cn.anger.mq</groupId>
+            <artifactId>anger-mq-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cn.anger.mq</groupId>
+            <artifactId>anger-mq-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.10.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>3.5.1</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                        <configuration>
+                            <transformers>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <mainClass>cn.anger.mq.AngerMqServerStarter</mainClass>
+                                </transformer>
+                            </transformers>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.apache.httpcomponents</groupId>
+                        <artifactId>httpclient</artifactId>
+                        <version>4.5.14</version>
+                    </dependency>
+                </dependencies>
+                <groupId>io.fabric8</groupId>
+                <artifactId>docker-maven-plugin</artifactId>
+                <version>0.43.4</version>
+                <configuration>
+                    <dockerHost>tcp://172.16.249.132:2375</dockerHost>
+                    <images>
+                        <image>
+                            <name>anger-mq-server</name>
+                            <build>
+                                <from>172.16.249.132:5000/angercn/java21</from>
+                                <assembly>
+                                    <descriptorRef>artifact</descriptorRef>
+                                    <targetDir>${docker.container.app.home}</targetDir>
+                                </assembly>
+                                <cmd>["java","-jar","${docker.container.app.home}/${project.build.finalName}.jar"]</cmd>
+                            </build>
+                        </image>
+                    </images>
+                    <registry>http://172.16.249.132:5000</registry>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
